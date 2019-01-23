@@ -1,5 +1,7 @@
-# `Golang Core Sprout`
+# `Gopher`
 >整理、收集 Galang面试、提升的相关内容，希望 gopher 共同进步，欢迎大家提PR。
+
+2019.1.23 : 这个仓库憋了很久了，自己很多东西都没整理，立个flag，过年后更新完基本内容。8:50pm
 
 
 <div align="center">  
