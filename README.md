@@ -1,15 +1,16 @@
 # `Gopher`
->整理、收集 Galang面试、提升的相关内容，希望 gopher 共同进步，欢迎大家提PR。
+>整理收集 Galang 面试、提升的相关内容，希望 gopher 共同进步，欢迎大家提PR。
 
-2019.1.23 : 这个仓库憋了很久了，自己很多东西都没整理，立个flag，过年后更新完基本内容。8:50pm
+**此 Repo 目前处于大型施工 🚧现场 ⚠️。**
 
+👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉👉
+> **对于急于了解 golang 面试实际情形的朋友，可先 *👉[戳这里](https://github.com/Uncho/gopher/src/interview)* ！**
 
 <div align="center">  
 <img src="./pic/go.jpeg" width=""/> 
 <br/>
 
 </div><br>
-
 
 <br/>
 
@@ -23,27 +24,26 @@
 
 还有很多 Golang 生态相关的技术可能没有加进来，本人会一直跟进与维护。热爱开源的小伙伴们尽情加加进来把！
 
-
-### 经典面试题选集
-- [夯实基础](https://github.com/7Ethan/gopher/src/interview/basic.md)
+### [经典面试题选集](https://github.com/Uncho/gopher/src/interview)
+- [夯实基础](https://github.com/Uncho/gopher/src/interview/basic.md)
 - [语法深入]()
 - [有趣的go]()
 - [设计模式]()
 
-### Go-高并发
+### [Go-高并发](https://github.com/Uncho/gopher/src/concurrent)
 - [并发模型简读]()
 - [channel and context]()
 - [goroutine]()
 - [go调度]()
 
-### Runtime剖析
+### [Runtime剖析](https://github.com/Uncho/gopher/src/runtime)
 - [go编译器]()
 - [编译命令执行过程]()
 - [go汇编]()
 - [go程序启动过程]()
 - [技术交流实录]()
 
-### 内存分配与GC
+### [内存分配与GC](https://github.com/Uncho/gopher/src/memory)
 - [示例问题]()
 - [内存分配]()
 - [垃圾回收(一)]()
@@ -52,7 +52,7 @@
 - [内存泄露]()
 
 
-### Web开发相关
+### [Web开发相关](https://github.com/Uncho/gopher/src/web)
 - [web相关知识]()
 - [web框架]()
 - [Echo使用]()
@@ -62,7 +62,7 @@
 - [杂记与小结]()
 
 
-### 微服务
+### [微服务](https://github.com/Uncho/gopher/src/microservice)
 - [RPC]()
 - [Protobuf]()
 - [rpc框架]()
@@ -71,7 +71,7 @@
 - [gateway]()
 - [消息队列]()
 
-### 分布式系统
+### [分布式系统](https://github.com/Uncho/gopher/src/distributed)
 - [数据库水平垂直拆分]()
 - [分布式限流]()
 - [基于 Redis 的分布式锁]()
@@ -79,20 +79,20 @@
 - [分布式 ID 生成器]()
 - [搜索引擎]()
 
-### 数据结构与算法
+### [数据结构与算法](https://github.com/Uncho/gopher/src/algorithm)
 - [一致性 Hash 算法]()
 - [限流算法]()
 - [LRU cache]()
 - [待定]()
 
-### 源码学习分享
+### [源码学习分享](https://github.com/Uncho/gopher/src/source_code)
 - [net/http]()
 - [bufio]()
 - [micro]()
 - [TiDB]()
 - [待续]()
 
-### 云计算
+### [云计算](https://github.com/Uncho/gopher/src/cloud)
 - [容器]()
 - [容器编排]()
 - [服务发现]()
@@ -103,6 +103,9 @@
 
 ### 联系作者
 
-> sergeychang#gmail.com
-
+<div align="center">  
+<a herf="mailto:sergeychang@gmail.com">📮发送邮件到邮箱：sergeychang@gmail.com</a>
+<p>个人微信：</p>
+<img src="./pic/wechat.jpeg" width=""/>
+<br/>
 
